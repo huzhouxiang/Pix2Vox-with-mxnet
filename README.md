@@ -5,9 +5,12 @@ According to the paper: Pix2Vox: Context-aware 3D Reconstruction from Single and
 In this work model is Pix2Vox-A (model with refiner and merger).
 When model was training, model was hybridized to speed up training process.
 
+## Averages of IoU:
+aeroplane | bench | cabinet | car | chair | display | lamp | speaker | rifle | sofa | table | telephone | watercraft | average
+------------ | -------------| -------------| -------------| -------------| -------------| -------------| -------------| -------------| -------------| -------------| -------------| -------------| -------------
+0.647 | 0.465 | 0.745 | 0.877 | 0.650 | 0.450 | 0.562 | 0.746 | 0.522 | 0.702 | 0.540 | 0.717 | 0.559 | 0.629
 
-
-## visulized models:
+## Visulization:
 
 plan (generated):
 ![plan (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/generated%20volomes/voxels-000020.png)
