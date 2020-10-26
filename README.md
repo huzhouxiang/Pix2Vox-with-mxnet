@@ -5,3 +5,6 @@ According to the paper: Pix2Vox: Context-aware 3D Reconstruction from Single and
 In this work model is Pix2Vox-A (model with refiner and merger).
 When model was training, model was hybridized to speed up training process.
 
+
+![ground truth:]
+()
