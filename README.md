@@ -12,11 +12,9 @@ aeroplane | bench | cabinet | car | chair | display | lamp | speaker | rifle | s
 0.647 | 0.465 | 0.745 | 0.877 | 0.650 | 0.450 | 0.562 | 0.746 | 0.522 | 0.702 | 0.540 | 0.717 | 0.559 | 0.629
 
 ## Visulization:
-
-plan (generated):
-![plan (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/generated%20volomes/voxels-000020.png)
-plan (GT):
-![plan (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/ground%20truth/voxels-000000.png)
+|          | images | predicted | GT  |
+|----------|:----:|:---:|:---:|
+Plan | ![plan:](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/aeroplane/00.png)| ![plan (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/aeroplane/voxels-000011.png)| ![plan (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/aeroplane/voxels-000022.png)|
 
 bench (generated):
 ![plan (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/generated%20volomes/voxels-000021.png)
