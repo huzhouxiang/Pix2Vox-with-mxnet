@@ -23,35 +23,7 @@ display | ![display:](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/mas
 lamp | ![lamp:](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/lamp/00.png)| ![lamp (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/lamp/voxels-000011.png)| ![lamp (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/lamp/voxels-000022.png)|
 speaker | ![speaker:](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/speaker/00.png)| ![speaker (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/speaker/voxels-000011.png)| ![speaker (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/speaker/voxels-000022.png)|
 rifle | ![rifle:](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/rifle/00.png)| ![rifle (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/rifle/voxels-000011.png)| ![rifle (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/rifle/voxels-000022.png)|
-sofa | ![sofa:](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/sofa/00.png)| ![sofa (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/sofa/voxels-000011.png)| ![sofa (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/sofa/voxels-000022.png)|
+sofa | ![sofa:](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/sofa/11.png)| ![sofa (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/sofa/voxels-000011.png)| ![sofa (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/sofa/voxels-000022.png)|
 table | ![table:](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/table/00.png)| ![table (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/table/voxels-000011.png)| ![table (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/table/voxels-000022.png)|
 telephone | ![telephone:](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/telephone/00.png)| ![telephone (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/telephone/voxels-000011.png)| ![telephone (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/telephone/voxels-000022.png)|
 watercraft | ![watercraft:](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/watercraft/00.png)| ![watercraft (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/watercraft/voxels-000011.png)| ![watercraft (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/watercraft/voxels-000022.png)|
-
-
-
-
-bench (generated):
-![plan (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/generated%20volomes/voxels-000021.png)
-bench (GT):
-![plan (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/ground%20truth/voxels-000001.png)
-
-cabinet (generated):
-![plan (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/generated%20volomes/voxels-000022.png)
-cabinet (GT):
-![plan (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/ground%20truth/voxels-000002.png)
-
-car (generated):
-![plan (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/generated%20volomes/voxels-000023.png)
-car (GT):
-![plan (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/ground%20truth/voxels-000003.png)
-
-chair (generated):
-![chair (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/generated%20volomes/voxels-000024.png)
-chair (GT)
-![chair (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/ground%20truth/voxels-000004.png)
-
-lamp (generated):
-![chair (generated):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/generated%20volomes/voxels-000026.png)
-lamp (GT)
-![chair (GT):](https://github.com/huzhouxiang/Pix2Vox-with-mxnet/blob/master/visualized%20results%20of%20prediction/ground%20truth/voxels-000006.png)
